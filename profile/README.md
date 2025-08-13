@@ -1,6 +1,6 @@
 # Reactor.dev
 
-Reactor.dev makes it easy for professionals to build a software business by handling the tedium of making good default choices for deploying code into production.
+reactor.dev makes it easy for professionals to build a software business by handling the tedium of making good default choices for deploying code into production.
 
 The biggest problem with vibecoding is that it is hard for non-tech practitioners to suffer through the learning curves of the software platforms that are fighting for your business and trying to lock you into their ecosystem. 
 
